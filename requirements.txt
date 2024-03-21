@@ -1,5 +1,0 @@
-opencv-python-headless==4.9.0.80
-pip install matplotlib
-pip install pandas
-# ideally create a virtual environment in conda 
-python version == 3.8.18 
